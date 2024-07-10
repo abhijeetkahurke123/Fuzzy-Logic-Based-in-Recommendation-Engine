@@ -1,1 +1,1 @@
-# Fuzzy-Logic-Based-in-Recommendation-Engine
+# Fuzzy-Logic-Based-in-Recommendation-Engine   -  The project focuses on finding ‘Fuzzy Logic’ based recommendation and Searching correlation between the customers. Modern behavioral recommending using fuzzy logic in ecommerce domain is giving rapid accuracy on large dataset. Manually recommending the product and high utility product to customer is arduous task
